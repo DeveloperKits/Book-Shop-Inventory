@@ -1,5 +1,5 @@
 # Book-Shop-Investory
-It's an management system application.
+It's a management system application.
 
 The Bookshop Inventory System is developed using Java and Mysql. The project is built to manage books and transactions. To make a new transaction, fields such as: Bookname, qty and payment needs to be selected.
 This whole project is developed in Java programming language using Netbeans.
